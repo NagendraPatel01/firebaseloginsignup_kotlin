@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "786346828257",
+    "project_id": "fir-loginkotlin-58602",
+    "storage_bucket": "fir-loginkotlin-58602.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786346828257:android:4dd2c8630dbaeabec772a0",
+        "android_client_info": {
+          "package_name": "com.dw.firebaseloginsignup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "786346828257-fecqfqn216a62n894pp30f7aobnr3961.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dw.firebaseloginsignup",
+            "certificate_hash": "02ecc80056d36d5827679cd0e02def216de5bd46"
+          }
+        },
+        {
+          "client_id": "786346828257-a2t2sl2cvjdjrlga98nhqql636s734d6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKNvZWL9P3XPNXBsYM5ZbIuBF0ooUY0wU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "786346828257-a2t2sl2cvjdjrlga98nhqql636s734d6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
