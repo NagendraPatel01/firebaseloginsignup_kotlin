@@ -13,6 +13,8 @@ class SplashActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_splash)
 
+        //github token= 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
+
 
         val handler = Handler()
         handler.postDelayed(Runnable {

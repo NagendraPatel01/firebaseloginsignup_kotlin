@@ -5,10 +5,10 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".DashbordActivity"
-    android:gravity="center"
     android:orientation="vertical">
 
     <TextView
+        android:layout_gravity="center"
         android:textStyle="italic"
         android:textSize="30dp"
         android:textColor="#000"
@@ -19,6 +19,7 @@
     </TextView>
 
     <Button
+        android:layout_gravity="center"
         android:id="@+id/btn"
         android:layout_marginTop="10dp"
         android:layout_width="160dp"
@@ -29,5 +30,11 @@
         android:textStyle="bold">
 
     </Button>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/recycle">
+    </androidx.recyclerview.widget.RecyclerView>
 
 </LinearLayout>
